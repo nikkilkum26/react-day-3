@@ -1,6 +1,6 @@
 import React from 'react';
 function Strike({ data }) {
-  let flag=true;
+  //let flag=true;
     function clickHandler(){
     
         let field=`I am ${data.name} from ${data.city}`.strike()
